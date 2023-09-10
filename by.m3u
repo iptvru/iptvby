@@ -1,0 +1,94 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/w16vy5m7zjbwp65dy39p"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 24 | Auto" tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZdQ2Porv4jR21qgEADK.png" group-title="Беларусь", Беларусь 24
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 1" group-title="Беларусь", Беларусь 1
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 2" group-title="Беларусь", Беларусь 2
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 3" group-title="Беларусь", Беларусь 3
+#EXTGRP:Беларусь
+https://cdn.voka.tv/live/8.m3u8
+#EXTINF:-1 tvg-id="belarus4-brest" tvg-name="Беларусь 4 | Брест" group-title="Беларусь", Беларусь 4 | Брест
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/2013.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" tvg-name="Беларусь 4 | Витебск" group-title="Беларусь", Беларусь 4 | Витебск
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/2012.m3u8
+#EXTINF:-1 tvg-id="belarus4-gomel" tvg-name="Беларусь 4 | Гомель" group-title="Беларусь", Беларусь 4 | Гомель
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/2011.m3u8
+#EXTINF:-1 tvg-id="belarus4-mogilev" tvg-name="Беларусь 4 | Могилев" group-title="Беларусь", Беларусь 4 | Могилев
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/2097.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 5" group-title="Беларусь", Беларусь 5
+#EXTGRP:Беларусь
+https://cdn-cache01.voka.tv/live/9.m3u8
+#EXTINF:-1 tvg-id="belarus5-inet" tvg-name="Беларусь 5 Интернет" group-title="Беларусь", Беларусь 5 Интернет
+#EXTGRP:Беларусь
+https://edge62.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РТР Беларусь" group-title="Беларусь", РТР Беларусь
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТВ" group-title="Беларусь", СТВ
+#EXTGRP:Беларусь
+http://80.94.225.126:8080/STV/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Беларусь" group-title="Беларусь", НТВ Беларусь
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/6.m3u8
+#EXTINF:-1 tvg-name="Витебск" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7pAvoArgRlD9de8NWP.png" group-title="Беларусь", Витебск
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/2023.m3u8
+#EXTINF:-1 tvg-name="Наше ТВ" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzy7Ko4KLPzglr60QA7.png" group-title="Беларусь", Наше ТВ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/218.m3u8
+#EXTINF:-1 tvg-name="ОНТ" group-title="Беларусь", ОНТ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/849.m3u8
+#EXTINF:-1 tvg-name="8 канал" group-title="Беларусь", 8 канал
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/962.m3u8
+#EXTINF:-1 tvg-name="ТВ2" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWwybZDl0bAWz7dvkJR.png" group-title="Беларусь", ТВ2
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/1013.m3u8
+#EXTINF:-1 tvg-name="Светлое ТВ" group-title="Беларусь", Светлое ТВ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/973.m3u8
+#EXTINF:-1 tvg-name="+TV" group-title="Беларусь", +TV
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/977.m3u8
+#EXTINF:-1 tvg-name="Скиф" tvg-logo="https://app.playlistbox.com/icon/G8pYyreWB49J6o3LR1xmOQ3jKka5L2lD.png" group-title="Беларусь", Скиф
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/3101.m3u8
+#EXTINF:-1 tvg-name="ТВ3" group-title="Беларусь", ТВ3
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/5127.m3u8
+#EXTINF:-1 tvg-name="Первый городской" group-title="Беларусь", Первый городской
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/6036.m3u8
+#EXTINF:-1 tvg-name="Звязда" group-title="Беларусь", Звязда
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/6238.m3u8
+#EXTINF:-1 tvg-name="Бобруйск 360" tvg-logo="https://i.ibb.co/0ckYG85/Picsart-23-09-10-13-15-43-841.png" group-title="Беларусь", Бобруйск 360
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/6239.m3u8
+#EXTINF:-1 tvg-name="КТВ БУГ" tvg-logo="https://i.ibb.co/vkB29Km/Picsart-23-09-10-13-21-38-966.png" group-title="Беларусь", КТВ БУГ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/7001.m3u8
+#EXTINF:-1 tvg-name="Лагуна ТВ" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2n6mol2Qpvy9L6KJa3.png" group-title="Беларусь", Лагуна ТВ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/7002.m3u8
+#EXTINF:-1 tvg-name="Варяг" group-title="Беларусь", Варяг
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/7003.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" group-title="Беларусь", Europa Plus TV
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/963.m3u8
+#EXTINF:-1 tvg-name="БелМузТВ" group-title="Беларусь", БелМузТВ
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/966.m3u8
+#EXTINF:-1 tvg-name="RUTV" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9RVNMREnk3GBgNLKQX.png" group-title="Беларусь", RUTV
+#EXTGRP:Беларусь
+http://cdn-cache01.voka.tv/live/972.m3u8
