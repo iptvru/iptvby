@@ -21,7 +21,7 @@
 # Ссылки
 Подписывайтесь на наши каналы
 
-Сайт - https://iptvby.framer.website/
+Сайт - https://iptvby.framer.media
 
 ВКонтакте - https://vk.com/iptvby
 
