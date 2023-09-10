@@ -21,8 +21,8 @@
 # Ссылки
 Подписывайтесь на наши каналы
 
-Сайт - https://iptv.framer.website/
+Сайт - https://iptvby.framer.website/
 
-ВКонтакте - https://vk.com/premiumplaylist
+ВКонтакте - https://vk.com/iptvby
 
 Телеграм : https://t.me/iptvtg
